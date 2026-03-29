@@ -1,0 +1,11 @@
+enabled,slug,title,url,source_kind,domain,topic,notes
+true,youth_monthly_rent_support_2026,청년월세 지원,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099,service,gov.kr,주거,정부24 보조금24 서비스 상세
+true,dongducheon_student_housing_scholarship_2026,동두천시 대학생 주거지원 장학금,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/392000000120,service,gov.kr,장학금,정부24 보조금24 서비스 상세
+true,jeonnam_youth_culture_welfare_card_2025,전남청년 문화복지카드,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/646000000202,service,gov.kr,복지카드,정부24 보조금24 서비스 상세
+true,gyeongbuk_moving_cost_large_family_2026,2026년 다자녀 가정 이사비 지원,https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000176?administOrgCd=ALL,service,gov.kr,이사/가족,정부24 보조금24 서비스 상세
+true,wonju_moving_youth_transport_support_2026,전입청년 교통비 지원,https://www.wonju.go.kr/wjyouth/contents.do?key=6005,policy,wonju.go.kr,교통비,원주시 청년정책 본문
+true,wonju_moving_youth_transport_notice_2025,2025 전입청년 교통비 지원 대상자 모집 안내,https://www.wonju.go.kr/wjyouth/selectBbsNttView.do?bbsNo=1190&integrDeptCode=&key=5882&nttNo=459044&pageIndex=2&searchCnd=all&searchCtgry=&searchKrwd=,notice,wonju.go.kr,교통비,원주시 청년지원센터 공지
+true,wonju_moving_youth_transport_notice_2024,2024 전입청년 교통비 지원 대상자 모집,https://www.wonju.go.kr/wjyouth/selectBbsNttView.do?bbsNo=1190&key=5882&nttNo=437986,notice,wonju.go.kr,교통비,원주시 청년지원센터 공지
+true,wonju_press_transport_2025,원주시 2025 전입청년 교통비 지원 대상자 모집 보도자료,https://www.wonju.go.kr/wjyouth/selectBbsNttView.do?bbsNo=1193&integrDeptCode=&key=5885&nttNo=460342&pageIndex=1&pageUnit=10&searchCnd=all&searchCtgry=&searchKrwd=,press,wonju.go.kr,교통비,원주시 보도자료
+true,k_hope_ladder_2026,사회 첫걸음 응원 정책 K-희망사다리,https://www.gov.kr/portal/ntnadmNews/4677754,news,gov.kr,청년정책,정부24 기관 소식
+true,busan_youth_transport_voucher_2022,2022년 산업단지 청년교통비 지원사업 안내,https://www.busan.go.kr/depart/abnotice/1517656?curPage=2&srchBeginDt=2021-02-06&srchEndDt=2022-02-06&srchKey=&srchText=,notice,busan.go.kr,교통비,부산광역시 공지사항

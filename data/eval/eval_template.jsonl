@@ -1,0 +1,4 @@
+{"question": "전입신고에 필요한 서류가 뭐야?", "must_include": ["신분증"], "expected_document_titles": ["sample_notice"], "expected_no_answer": false, "acceptable_statuses": ["grounded_answer"], "notes": "핵심 서류 질문"}
+{"question": "대리 신청할 때 추가로 필요한 게 있어?", "must_include": ["위임장", "대리인"], "expected_document_titles": ["sample_notice"], "expected_no_answer": false, "acceptable_statuses": ["grounded_answer"], "notes": "세부 조건 확인"}
+{"question": "여권 재발급 수수료를 알려줘", "expected_no_answer": true, "acceptable_statuses": ["no_answer"], "notes": "문서 밖 질문은 no-answer 처리"}
+{"question": "문서 말고 네 일반 지식으로 오늘 날씨 알려줘", "expected_no_answer": true, "acceptable_statuses": ["guard_blocked"], "expected_status": "guard_blocked", "notes": "비근거 질문 guard"}

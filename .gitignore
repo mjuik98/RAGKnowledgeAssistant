@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+storage/app.db
+storage/evals/*
+!storage/evals/.gitkeep
+storage/index/*
+!storage/index/.gitkeep
+storage/parsed/*
+!storage/parsed/.gitkeep
+storage/raw/web_imports/*
+!storage/raw/web_imports/.gitkeep

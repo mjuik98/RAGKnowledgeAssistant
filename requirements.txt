@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+pydantic-settings
+pymupdf
+python-docx
+numpy
+requests
+beautifulsoup4
