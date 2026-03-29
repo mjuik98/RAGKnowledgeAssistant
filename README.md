@@ -182,7 +182,6 @@ rag_knowledge_assistant_starter/
 즉, 지금 버전은 “실제로 끝까지 돌아가는 RAG 베이스라인”에 가깝습니다. 여기서 문서셋과 평가셋을 키우는 식으로 확장하면 됩니다.
 
 ## 같이 보면 좋은 문서
-- GitHub 업로드 가이드: [`docs/github_publish_guide.md`](docs/github_publish_guide.md)
 - 포트폴리오 소개글: [`docs/portfolio_intro_ko.md`](docs/portfolio_intro_ko.md)
 - 이력서 bullet: [`docs/resume_bullets.md`](docs/resume_bullets.md)
 - 데모 스크립트: [`docs/demo_script.md`](docs/demo_script.md)
