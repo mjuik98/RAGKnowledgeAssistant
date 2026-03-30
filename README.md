@@ -6,6 +6,10 @@
 
 ![RAG Pipeline Overview](docs/assets/rag_pipeline_overview.png)
 
+### 시연 영상 (Demo)
+![RAG Demo Video](docs/assets/rag_demo_recording.webp)
+
+
 ## 프로젝트 개요
 이 프로젝트가 하는 일은 단순합니다.
 
